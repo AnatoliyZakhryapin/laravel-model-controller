@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <script src="https://kit.fontawesome.com/08d5002177.js" crossorigin="anonymous"></script>
     <title>@yield('title')</title>
 
     <!-- Fonts -->
